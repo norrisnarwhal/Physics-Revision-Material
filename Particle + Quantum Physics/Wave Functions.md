@@ -62,7 +62,7 @@ $$
 $$
 If you try to go through solving this differential equation, you come to two cases: either $V(x)>E$ or $E>V(x)$. These correspond to classically allowed and disallowed regions.
 
-![](/Users/norrislam/Documents/GitHub/Physics-Revision-Material/Particle + Quantum Physics/regions.png)
+<img src="/Users/norrislam/Documents/GitHub/Physics-Revision-Material/Particle + Quantum Physics/regions.png" style="zoom:30%;" />
 
 Suppose you placed a ball in the middle region with total energy $E$. The potential $V(x)$ shows you the potential energy of the ball, and the rest is kinetic energy. As it rolls up the hill to the right, it reaches the point where all of its energy is potential energy. At this point the ball has no kinetic energy and is not moving. It then rolls back down the hill, to the left, where the same thing will occur. The ball will never have enough energy to roll up and over the hill. This allows us to split the area into three regions: the region in the middle, where the ball can be found classically, and the left and right regions, where the ball will never be found classically.
 
@@ -82,7 +82,7 @@ k=\frac{\sqrt{2m(V(x)-E)}}{\hbar}
 $$
 like in the case of the free particle. If we sketch the wave function on the diagram, it might look something like this:
 
-![](/Users/norrislam/Documents/GitHub/Physics-Revision-Material/Particle + Quantum Physics/wf.png)
+<img src="/Users/norrislam/Documents/GitHub/Physics-Revision-Material/Particle + Quantum Physics/wf.png" style="zoom:30%;" />
 
 modulo my bad art.
 
