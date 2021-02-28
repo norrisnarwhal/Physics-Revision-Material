@@ -1,5 +1,3 @@
-
-
 # "Deriving" the Schrodinger Equation
 
 It is important to note that this will not be, in any sense, a rigorous derivation of the Schrodinger Equation (henceforth referred to as the SE) from first principles. This is not me being lazy, but rather due to the fact that _no one can_ derive quantum mechanics from first principles. We can, however, tell a story that will let the SE make more sense.
