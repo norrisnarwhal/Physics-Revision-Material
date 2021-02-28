@@ -30,5 +30,5 @@ The heat energy needed to get convert ice at its initial temperature to water at
 
 4. **Equate the two equations by conservation of energy.**
 
-The heat energy lost by the warm water is gained by the ice, so sum the energies found in 1a, 1b, and 2, and equate it to the energy lost found in step 3.
+The heat energy lost by the warm water is gained by the ice, so sum the energies found in 1a, 1b, and 2, and equate it to the energy lost found in step 3. You can now solve for the needed quantity (usually $T_f$).
 

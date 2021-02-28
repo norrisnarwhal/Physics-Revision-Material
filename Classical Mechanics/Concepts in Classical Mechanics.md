@@ -6,11 +6,11 @@ There are some important rules in classical mechanics that will (basically) alwa
 
 This feels kind of strange; we live life with time running forwards, so why should the laws of physics be the same when time runs backwards? The truth is that this rule isn't always true: the thermodynamics tells us that entropy tends to increase, so clearly time symmetry can't always hold. But think about smaller scale situations like a pendulum: its motion is described by a wave:
 
-<img src="/Users/norrislam/Documents/CAS/Classical Mechanics/desmos-graph.png" style="zoom:35%;" />
+<img src="/Users/norrislam/Documents/GitHub/Physics-Revision-Material/Classical Mechanics/desmos-graph.png" style="zoom:35%;" />
 
 But if you recorded a video of the pendulum and played it backwards, there would be essentially no difference in its motion since taking $t\to -t$ in this graph would still result in a wave:
 
-<img src="/Users/norrislam/Documents/CAS/Classical Mechanics/desmos-graph (1).png" style="zoom:35%;" />
+<img src="/Users/norrislam/Documents/GitHub/Physics-Revision-Material/Classical Mechanics/desmos-graph (1).png" style="zoom:35%;" />
 
 So this "experiment" is time-reversal invariant.
 
