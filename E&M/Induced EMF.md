@@ -15,4 +15,3 @@ In this graph, treat the $x$-axis at time. This simulates the rotation of a dyna
 **Change the angular frequency of the rotation**. Why does this only affect the EMF generated again? Well, changing the parameters surrounding the rotation of the coil doesn't affect the area of the loop, nor does it affect the magnetic field strength. Hence, the magnetic flux stays the same. However, the induced EMF is the rate of change of the magnetic flux (linkage) over time — if the coil is rotated faster, the rate of change increases, so the induced EMF also increases.
 
 **Look at the functions**. Does this support what you observed? (Keep in mind that in this case, $x$ represents the time, so it should be $t$.)
-
