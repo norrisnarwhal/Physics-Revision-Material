@@ -10,15 +10,23 @@ The first step would be to find the heat energy used to melt the ice. This occur
 
 ​		1a. Find the energy needed to raise the temperature of the ice to 0ºC using $Q=m_{\text{ice}}c_{\text{ice}}\Delta T$.
 
+<img src="/Users/norrislam/Documents/GitHub/Physics-Revision-Material/Thermal Physics/step 1a.png" style="zoom:25%;" />
+
 ​		1b. Find the energy needed to melt the ice, using $Q=m_{\text{ice}}L$.
+
+<img src="/Users/norrislam/Documents/GitHub/Physics-Revision-Material/Thermal Physics/step 1b.png" style="zoom:25%;" />
 
 2. **The 0ºC now needs to be heated to the final temperature $T_f$.**
 
 The energy needed in this step would be $Q=m_{\text{ice}}c_{\text{water}}T_f$.
 
+<img src="/Users/norrislam/Documents/GitHub/Physics-Revision-Material/Thermal Physics/step 2.png" style="zoom:25%;" />
+
 3. **Consider where all this energy comes from.**
 
 The heat energy needed to get convert ice at its initial temperature to water at $T_f$ comes solely from the warm water it started in. All that happens to this water is it cools from its initial temperature $T_i$ to $T_f$, losing heat energy equal to $Q=m_{\text{water}}c_{\text{water}}(T_i-T_f)$. Notice that since the water cools, $T_i>T_f$, so this $Q$ is a positive quantity telling us how much heat energy is *lost*.
+
+<img src="/Users/norrislam/Documents/GitHub/Physics-Revision-Material/Thermal Physics/step 3.png" style="zoom:25%;" />
 
 4. **Equate the two equations by conservation of energy.**
 
