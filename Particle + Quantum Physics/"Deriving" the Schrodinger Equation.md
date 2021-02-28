@@ -54,7 +54,7 @@ The more mathematically ambitious of you may be inclined to take derivatives of 
 $$
 \psi(x,t)=e^{i(kx-\omega t)}
 $$
-However, there's some ambiguity as to which variable we should take derivatives with respect to; since $\psi$ is a function of both $x$ and $t$, it is equally fair to take derivatives with respect to either of these variables. As such, we will do both.
+However, there's some ambiguity as to which variable we should take derivatives with respect to; since $\psi$ is a function of both $x$ and $t$, it is equally fair to take derivatives with respect to either of these variables. We will do both.
 $$
 \begin{aligned}
 \frac{\partial\psi}{\partial x}&=ike^{i(kx-\omega t)}\\
