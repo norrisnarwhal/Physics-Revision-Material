@@ -1,6 +1,6 @@
 # The Electric Field
 
-Open this Desmos graph: https://www.desmos.com/calculator/n1rdt2yyve
+Open this Desmos graph: https://www.desmos.com/calculator/l3sezvpjot
 
 You can move the three charges (red, purple, and green) around and change their charges ($q_1$, $q_2$, and $q_3$ respectively). Move the point (black) around to see what the electric field vector is at that point.
 
