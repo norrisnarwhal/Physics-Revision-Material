@@ -60,8 +60,8 @@ $$
 v\Delta v&=a\Delta x\\[1 em]
 \Big(\frac{v_i+v_f}{2}\Big)(v_f-v_i)&=a\Delta x\\[1 em]
 (v_f+v_i)(v_f-v_i)&=2a\Delta x\\[1 em]
-v_f^2-v_i^2=2a\Delta x\\[2 em]
-v_f^2=v_i^2+2as
+v_f^2-v_i^2&=2a\Delta x\\[2 em]
+v_f^2&=v_i^2+2as
 \end{aligned}
 $$
 where in the final line we have used once again $s=\Delta x$. This is the third SUVAT equation. For many problems, it will be necessary to choose the correct equation to use given the quantities that are provided in the question, and then to rearrange it for the variable that needs to be solved for.
