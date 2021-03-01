@@ -6,4 +6,4 @@ These files are not intended to be a replacement for the textbook, nor a replace
 
 However, these files will be good for refreshing some concepts throughout the course, as well as providing some further extensions to several topics (which may require a bit more mathematical fluency).
 
-The final exported PDFs are under the folder "Final". The other folders contain the markdown files and other materials.
+The final exported PDFs are under the folder "Final". The other folders contain the markdown files and other materials. If you're reading the files on GitHub, it might be better to read the markdown files.
