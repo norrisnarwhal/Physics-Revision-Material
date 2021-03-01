@@ -9,3 +9,4 @@ You can move the three charges (red, purple, and green) around and change their 
 Open this Desmos graph: https://www.desmos.com/calculator/bgqdz37xvw
 
 Move around the three charges to look at the entire field and how it is effected by the charges.
+
